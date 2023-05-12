@@ -30,5 +30,6 @@ public abstract class Animal {
 		// Dieren kunnen allemaal springen
 	}
 	
+	// nog meer regels
 
 }
