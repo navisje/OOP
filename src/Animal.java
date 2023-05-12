@@ -26,5 +26,9 @@ public abstract class Animal {
 		this.legs = legs;
 	}
 	
+	public void jump( ) {
+		// Dieren kunnen allemaal springen
+	}
+	
 
 }
